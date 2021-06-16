@@ -7,7 +7,7 @@
 
 ## My Skills:
 <div>
-<a href="https://github.com/jheimis">
+<a href="https://github.com/jheimis" target="_blank">
 <img aling="center" alt=".Net" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
   style="max-width:100%;"><img>
 <img aling="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
@@ -23,7 +23,7 @@
   </div>
 
   <div>
-  <a href="https://github.com/jheimis">
+  <a href="https://github.com/jheimis" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheimis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheimis&layout=compact&langs_count=16&theme=dark"/>
 </div>
