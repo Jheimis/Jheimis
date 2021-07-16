@@ -31,9 +31,9 @@
   
 <div>
 <p align="center">
-<!--  <a href="https://www.linkedin.com/in/jheimis-marques/" target="_blank">
+<a href="https://www.linkedin.com/in/jheimis-marques/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghaynesh" height="20" width="20" />
-  </a>-->
+  </a>
   <a href="https://api.whatsapp.com/send?phone=5518996365680" target="_blank">
     <img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-1.png" alt="hynzhw" height="20" width="20" />
   </a>
