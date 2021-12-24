@@ -5,22 +5,6 @@
 - 🌱 I’m currently learning .NET Core and Angular
 - 📫 How to reach me: **jheimis96@gmail.com**
 
-## My Skills:
-<div>
-<a href="https://github.com/jheimis" target="_blank">
-<img aling="center" alt=".Net" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-  style="max-width:100%;"><img>
-<img aling="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-  style="max-width:100%;"><img>
-<img aling="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
-  style="max-width:100%;"><img>
-<img aling="center" alt="MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-  style="max-width:100%;"><img>
-<img aling="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-  style="max-width:100%;"><img>
-<img aling="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-  style="max-width:100%;"><img>
-  </div>
 
   <div>
   <a href="https://github.com/jheimis" target="_blank">
