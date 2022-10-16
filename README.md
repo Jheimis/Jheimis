@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Jheimis Marques
 
-- 🔭 I’m currently working at [**TCS**](https://www.tcs.com/)
+- 🔭 I’m currently working at [**Itaú Unibanco**](https://www.itau.com.br/)
 - 🌱 I’m currently learning .NET Core and Angular
 - 📫 How to reach me: **jheimis96@gmail.com**
 
